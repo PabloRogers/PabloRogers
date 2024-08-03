@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Florida
 * ✉️  You can contact me at [realpablorogers@gmail.com](mailto:realpablorogers@gmail.com)
-* 🧠  I'm learning React Js
+* 🧠  I'm learning Next Js
 * 🤝  I'm open to collaborating on anything
 
 ### Skills
