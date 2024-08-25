@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-* 🌍  I'm based in Florida
+* 🌍  I'm based in State College, Pennsylvania
+* 🏫  Pennsylvania State University, College Of Engineering, Computer Science Major
 * ✉️  You can contact me at [realpablorogers@gmail.com](mailto:realpablorogers@gmail.com)
 * 🧠  I'm learning Next Js
 * 🤝  I'm open to collaborating on anything
