@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -----------------
 
-* 🌍  I'm based in State College, Pennsylvania
+* 🌍  I'm based in University Park, Pennsylvania
 * 🏫  Pennsylvania State University, College Of Engineering, Computer Science Major
 * ✉️  You can contact me at [realpablorogers@gmail.com](mailto:realpablorogers@gmail.com)
 * 🧠  I'm learning Next Js
@@ -23,9 +23,5 @@ Software Engineer
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/PabloRogers"><img src="https://github-readme-stats.vercel.app/api?username=PabloRogers&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=ffffff&hide_border=true&show_icons=true" alt="PabloRogers's GitHub stats" /></a>
-
-<a href="http://www.github.com/PabloRogers"><img src="https://github-readme-streak-stats.herokuapp.com/?user=PabloRogers&stroke=3382ed&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=3382ed&currStreakLabel=3382ed&sideNums=3382ed&sideLabels=3382ed&dates=3382ed&hide_border=true" /></a>
 
 <a href="https://github.com/PabloRogers" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloRogers&langs_count=10&title_color=3382ed&text_color=3382ed&icon_color=3382ed&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
